@@ -7,5 +7,6 @@ package laitest;
 public class zhangsan {
 	public static void main(String[] args) {
 		main(args);
+		System.out.println(1430);
 	}
 }
